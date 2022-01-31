@@ -2,7 +2,7 @@
 
 ```
                           ,_         
-                        ,'  '\,_     Utku Sen's
+                        ,'  '\,_     Aleph Join's
                         |_,-'_)         wholeaked
                         /##c '\  (   
                        ' |'  -{.  )  "When you have eliminated the impossible,
@@ -35,7 +35,7 @@ wholeaked works with every file type. However, it has additional features for co
 +-----------++-----------+                      /      |Top Secret |       
 |Top Secret ||Recipient  |                     /       |.pdf       |       
 |.pdf       ||List       |      +---------+   /        |           |       
-|           ||           |      |utkusen/ |  /  b@gov  |           |       
+|           ||           |      |aleph  / |  /  b@gov  |           |       
 |           ||a@gov      |----->|wholeaked| /----------+           |       
 |           ||b@gov      |      |         | \          |Hidden     |       
 |           ||c@gov      |      +---------+  \         |signature2 |       
@@ -59,7 +59,7 @@ To find who leaked the document, you just need to provide the leaked file to who
 +-----------+             +---------+                           
 |Top Secret |             |Signature|                           
 |.pdf       |  +---------+|Database |                           
-|           |  |utkusen/ ||         |         Document leaked by
+|           |  |aleph  / ||         |         Document leaked by
 |           |->|wholeaked||         |--------+                  
 |           |  |         ||         |              b@gov        
 |Hidden     |  +---------+|         |                           
