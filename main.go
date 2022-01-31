@@ -38,7 +38,7 @@ var currentDir, _ = os.Getwd()
 func main() {
 	fmt.Println(`
       ,_         
-    ,'  '\,_     Utku Sen's
+    ,'  '\,_     Ufuk Sen's
     |_,-'_)         wholeaked
     /##c '\  (   
    ' |'  -{.  )  "When you have eliminated the impossible,
@@ -364,7 +364,7 @@ func officeCompress(source, target string) {
 			fmt.Println(err)
 			os.Exit(1)
 
-		}
+		} 
 		_, err = io.Copy(f, fh)
 		if err != nil {
 			fmt.Println(err)
